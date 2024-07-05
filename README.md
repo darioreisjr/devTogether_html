@@ -43,4 +43,4 @@ Contém todos os arquivos estáticos do site, como imagens, estilos, scripts e f
 - **Hospedagem:** Considere hospedar o site em um servidor web para torná-lo acessível publicamente.
 - **Domínio:** Registrar um nome de domínio personalizado pode aumentar a credibilidade e facilitar o acesso ao site.
 
-Com base na estrutura, este parece ser um site bem estruturado com potencial para ser visualmente atraente e rico em recursos. Parabéns pelo trabalho! 👏 
+Com base na estrutura, este site bem estruturado com potencial para ser visualmente atraente e rico em recursos. Parabéns pelo trabalho! 👏 
